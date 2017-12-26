@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
+
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+td, th {
+  text-align: center;
+}
+
+.text-overline {
+  text-decoration: overline;
+}
